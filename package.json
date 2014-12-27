@@ -1,0 +1,29 @@
+{
+  "name": "fe_env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrichard/fe_env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrichard/fe_env/issues"
+  },
+  "homepage": "https://github.com/mrichard/fe_env",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jscs": "^1.3.1",
+    "gulp-jshint": "^1.9.0",
+    "gulp-notify": "^2.1.0",
+    "gulp-notify-growl": "^1.0.2",
+    "jscs": "^1.9.0",
+    "jscs-jsdoc": "^0.3.2",
+    "jshint-stylish": "^1.0.0"
+  }
+}
